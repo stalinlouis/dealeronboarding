@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>true</advanced>
+        <condition/>
+        <description/>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_1459983_dealer_0_dealer_certificate</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-31 09:18:56</sys_created_on>
+        <sys_id>9f8d8dac47b74210a5ed64f2e16d4399</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1459983_dealer_0_dealer_certificate</sys_name>
+        <sys_package display_value="Dealer Onboarding" source="x_1459983_dealer_0">8630a0e8c37b02104db1be3ed40131d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dealer Onboarding">8630a0e8c37b02104db1be3ed40131d9</sys_scope>
+        <sys_update_name>sys_security_acl_9f8d8dac47b74210a5ed64f2e16d4399</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-31 09:18:56</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Dealer Onboarding">8630a0e8c37b02104db1be3ed40131d9</application>
+        <file_path/>
+        <instance_id>da99846a1b0dca18168f4089bd4bcb21</instance_id>
+        <instance_name>dev248746</instance_name>
+        <name>sys_security_acl_9f8d8dac47b74210a5ed64f2e16d4399</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>true</advanced>
+        <condition/>
+        <description/>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_1459983_dealer_0_dealer_certificate</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-31 09:18:56</sys_created_on>
+        <sys_id>9f8d8dac47b74210a5ed64f2e16d4399</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1459983_dealer_0_dealer_certificate</sys_name>
+        <sys_package display_value="Dealer Onboarding" source="x_1459983_dealer_0">8630a0e8c37b02104db1be3ed40131d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dealer Onboarding">8630a0e8c37b02104db1be3ed40131d9</sys_scope>
+        <sys_update_name>sys_security_acl_9f8d8dac47b74210a5ed64f2e16d4399</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-31 09:18:56</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>]]></payload>
+        <payload_hash>-387620607</payload_hash>
+        <record_name>x_1459983_dealer_0_dealer_certificate</record_name>
+        <reverted_from/>
+        <source>a7d0112cc33342104db1be3ed40131ad</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-31 09:33:33</sys_created_on>
+        <sys_id>e1e0d12cc33342104db1be3ed4013122</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191082340370000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-31 09:33:33</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>a1e0d12c083342100825c587ccced222</update_guid>
+        <update_guid_history>a1e0d12c083342100825c587ccced222:-387620607</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-31 11:38:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>87972edbc6c148268fdead443fdda1e1</sys_id>
+        <sys_metadata>9f8d8dac47b74210a5ed64f2e16d4399</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1459983_dealer_0_dealer_certificate</sys_name>
+        <sys_package display_value="Dealer Onboarding" source="x_1459983_dealer_0">8630a0e8c37b02104db1be3ed40131d9</sys_package>
+        <sys_parent display_value="">18e0512cc33342104db1be3ed4013145</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Dealer Onboarding">8630a0e8c37b02104db1be3ed40131d9</sys_scope>
+        <sys_scope_delete display_value="">6234ed4fc467411b9b1d8dba4e9f2119</sys_scope_delete>
+        <sys_update_name>sys_security_acl_9f8d8dac47b74210a5ed64f2e16d4399</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_9f8d8dac47b74210a5ed64f2e16d4399">e1e0d12cc33342104db1be3ed4013122</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-31 11:38:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

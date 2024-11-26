@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="use_document_viewer" db_object_id="9a06a4a4c3bb02104db1be3ed4013155" label="Dealership Information" max_length="40" name="x_1459983_dealer_0_dealership_information" type="collection">
+        <element label="ABI" max_length="40" name="p_abi" type="string"/>
+        <element label="BIC/SWIFT Code" max_length="40" name="p_bic_swift_code" type="float"/>
+        <element label="Number Company register" max_length="40" name="number_company_register" type="float"/>
+        <element label="IBAN" max_length="40" name="s_iban" type="float"/>
+        <element label="ABI" max_length="40" name="s_abi" type="string"/>
+        <element label="Registered Company Name" max_length="40" name="registered_company_name" type="string"/>
+        <element label="BIC/SWIFT Code" max_length="40" name="s_bic_swift_code" type="float"/>
+        <element label="DMS Name" max_length="40" name="dms_name" type="string"/>
+        <element label="Comapny Email" max_length="40" name="comapny_email" type="string"/>
+        <element label="Call Center Phone" max_length="40" name="call_center_phone" type="float"/>
+        <element label="Legal Representative" max_length="40" name="legal_representative" type="string"/>
+        <element label="Share Capital" max_length="40" name="share_capital" type="float"/>
+        <element label="Registered company Address" max_length="40" name="registered_company_address" type="string"/>
+        <element label="CAB" max_length="40" name="s_cab" type="string"/>
+        <element label="IBAN" max_length="40" name="p_iban" type="float"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Electronic invoicing code" max_length="40" name="electronic_invoicing_code" type="string"/>
+        <element label="CAB" max_length="40" name="p_cab" type="string"/>
+        <element label="Marketign Name" max_length="40" name="marketign_name" type="string"/>
+        <element label="The Economic and Administrative Index (REA)" max_length="40" name="the_economic_and_administrative_index_rea" type="float"/>
+        <element label="Type of Company" max_length="40" name="type_of_company" type="string"/>
+        <element label="Support Bank Name" max_length="40" name="p_support_bank_name" type="string"/>
+        <element label="Support Bank Name" max_length="40" name="s_support_bank_name" type="string"/>
+        <element label="PEC Address" max_length="40" name="pec_address" type="string"/>
+        <element label="Fiscal Code / VAT Number" max_length="40" name="fiscal_code_vat_number" type="float"/>
+    </element>
+</database>

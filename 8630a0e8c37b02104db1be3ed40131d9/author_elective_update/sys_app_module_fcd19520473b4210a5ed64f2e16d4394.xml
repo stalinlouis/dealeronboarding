@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Dealer Certificate Template">3d1195ec47f74210a5ed64f2e16d43b0</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>Template Create</hint>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Template Create</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1459983_dealer_0_dealer_template</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-31 09:38:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fcd19520473b4210a5ed64f2e16d4394</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Template Create</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Dealer Onboarding" source="x_1459983_dealer_0">8630a0e8c37b02104db1be3ed40131d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dealer Onboarding">8630a0e8c37b02104db1be3ed40131d9</sys_scope>
+        <sys_update_name>sys_app_module_fcd19520473b4210a5ed64f2e16d4394</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-31 09:38:32</sys_updated_on>
+        <timeline_page/>
+        <title>Template Create</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Dealer Onboarding">8630a0e8c37b02104db1be3ed40131d9</application>
+        <file_path/>
+        <instance_id>da99846a1b0dca18168f4089bd4bcb21</instance_id>
+        <instance_name>dev248746</instance_name>
+        <name>sys_app_module_fcd19520473b4210a5ed64f2e16d4394</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Dealer Certificate Template">3d1195ec47f74210a5ed64f2e16d43b0</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>Template Create</hint>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Template Create</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1459983_dealer_0_dealer_template</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-31 09:38:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fcd19520473b4210a5ed64f2e16d4394</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Template Create</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Dealer Onboarding" source="x_1459983_dealer_0">8630a0e8c37b02104db1be3ed40131d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dealer Onboarding">8630a0e8c37b02104db1be3ed40131d9</sys_scope>
+        <sys_update_name>sys_app_module_fcd19520473b4210a5ed64f2e16d4394</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-31 09:38:32</sys_updated_on>
+        <timeline_page/>
+        <title>Template Create</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>]]></payload>
+        <payload_hash>1266543724</payload_hash>
+        <record_name>Template Create</record_name>
+        <reverted_from/>
+        <source>495a9120c3b342104db1be3ed40131ab</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-31 10:14:48</sys_created_on>
+        <sys_id>695ad120c3b342104db1be3ed4013126</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191084902780000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-31 10:14:48</sys_updated_on>
+        <type>Module</type>
+        <update_guid>295ad120bcb342102440df0c4b20ff26</update_guid>
+        <update_guid_history>295ad120bcb342102440df0c4b20ff26:1266543724</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Template Create">b08d2924c37742104db1be3ed40131aa</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-31 11:38:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>0b10d579192e4dc08aab7440ee826400</sys_id>
+        <sys_metadata>fcd19520473b4210a5ed64f2e16d4394</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Template Create</sys_name>
+        <sys_package display_value="Dealer Onboarding" source="x_1459983_dealer_0">8630a0e8c37b02104db1be3ed40131d9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Dealer Onboarding">8630a0e8c37b02104db1be3ed40131d9</sys_scope>
+        <sys_scope_delete display_value="">6234ed4fc467411b9b1d8dba4e9f2119</sys_scope_delete>
+        <sys_update_name>sys_app_module_fcd19520473b4210a5ed64f2e16d4394</sys_update_name>
+        <sys_update_version display_value="sys_app_module_fcd19520473b4210a5ed64f2e16d4394">695ad120c3b342104db1be3ed4013126</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-31 11:38:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

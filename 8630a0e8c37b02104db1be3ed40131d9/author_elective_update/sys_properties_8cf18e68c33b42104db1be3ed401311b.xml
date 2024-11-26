@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="DELETE">
+        <choices/>
+        <description/>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_1459983_dealer_0.glide.ui.polaris.theme.custom</name>
+        <read_roles/>
+        <suffix>glide.ui.polaris.theme.custom</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-31 13:09:28</sys_created_on>
+        <sys_id>8cf18e68c33b42104db1be3ed401311b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1459983_dealer_0.glide.ui.polaris.theme.custom</sys_name>
+        <sys_package display_value="Dealer Onboarding" source="x_1459983_dealer_0">8630a0e8c37b02104db1be3ed40131d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dealer Onboarding">8630a0e8c37b02104db1be3ed40131d9</sys_scope>
+        <sys_update_name>sys_properties_8cf18e68c33b42104db1be3ed401311b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-31 13:09:28</sys_updated_on>
+        <type>string</type>
+        <value>e6514a68c33b42104db1be3ed4013121</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="DELETE" query="documentkey=8cf18e68c33b42104db1be3ed401311b"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Dealer Onboarding">8630a0e8c37b02104db1be3ed40131d9</application>
+        <file_path/>
+        <instance_id>da99846a1b0dca18168f4089bd4bcb21</instance_id>
+        <instance_name>dev248746</instance_name>
+        <name>sys_properties_8cf18e68c33b42104db1be3ed401311b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description/><ignore_cache>true</ignore_cache><is_private>false</is_private><name>x_1459983_dealer_0.glide.ui.polaris.theme.custom</name><read_roles/><suffix>glide.ui.polaris.theme.custom</suffix><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-31 13:09:28</sys_created_on><sys_id>8cf18e68c33b42104db1be3ed401311b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1459983_dealer_0.glide.ui.polaris.theme.custom</sys_name><sys_package display_value="Dealer Onboarding" source="x_1459983_dealer_0">8630a0e8c37b02104db1be3ed40131d9</sys_package><sys_policy/><sys_scope display_value="Dealer Onboarding">8630a0e8c37b02104db1be3ed40131d9</sys_scope><sys_update_name>sys_properties_8cf18e68c33b42104db1be3ed401311b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-31 13:09:28</sys_updated_on><type>string</type><value>e6514a68c33b42104db1be3ed4013121</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=8cf18e68c33b42104db1be3ed401311b"/></record_update>]]></payload>
+        <payload_hash>-667383598</payload_hash>
+        <record_name>x_1459983_dealer_0.glide.ui.polaris.theme.custom</record_name>
+        <reverted_from/>
+        <source>02737028c33f02104db1be3ed401311a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-31 13:09:28</sys_created_on>
+        <sys_id>505202e8c33b42104db1be3ed4013135</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19108e8eecd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-31 13:09:28</sys_updated_on>
+        <type>System Property</type>
+        <update_guid>545202e8c03b421010e54e744e31f634</update_guid>
+        <update_guid_history>545202e8c03b421010e54e744e31f634:-667383598</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-01 06:34:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties">sys_properties</sys_db_object>
+        <sys_id>184caed6525548e59cd4f5852e8420c9</sys_id>
+        <sys_metadata>8cf18e68c33b42104db1be3ed401311b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1459983_dealer_0.glide.ui.polaris.theme.custom</sys_name>
+        <sys_package display_value="Dealer Onboarding" source="x_1459983_dealer_0">8630a0e8c37b02104db1be3ed40131d9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Dealer Onboarding">8630a0e8c37b02104db1be3ed40131d9</sys_scope>
+        <sys_scope_delete display_value="">6234ed4fc467411b9b1d8dba4e9f2119</sys_scope_delete>
+        <sys_update_name>sys_properties_8cf18e68c33b42104db1be3ed401311b</sys_update_name>
+        <sys_update_version display_value="sys_properties_8cf18e68c33b42104db1be3ed401311b">505202e8c33b42104db1be3ed4013135</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-01 06:34:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="use_document_viewer" db_object_id="59c36ca0c3bb02104db1be3ed4013196" label="Letter Requesting Mandate" max_length="40" name="x_1459983_dealer_0_letter_requesting_mandate" type="collection">
+        <element label="The Economic and Administrative Index (REA)" max_length="40" name="the_economic_and_administrative_index_rea" type="float"/>
+        <element label="Fiscal Code" max_length="40" name="fiscal_code" type="float"/>
+        <element label="Surname" mandatory="true" max_length="40" name="surname" type="string"/>
+        <element label="City of Birth" max_length="40" name="city_of_birth" type="string"/>
+        <element choice="1" label="List of Sales LCV Brands" max_length="40" name="list_of_sales_lcv_brands" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="OPEL LCV" value="OPEL LCV"/>
+                <element inactive_on_update="false" label="PEUGEOT LCV" value="PEUGEOT LCV"/>
+                <element inactive_on_update="false" label="CITROEN LCV" value="CITROEN LCV"/>
+            </choice>
+        </element>
+        <element label="Date of Birth" mandatory="true" max_length="40" name="date_of_birth" type="glide_date"/>
+        <element label="Name" mandatory="true" max_length="40" name="name_surname" type="string"/>
+        <element label="eoi_document_id" max_length="40" name="eoi_document_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Dealer Id" mandatory="true" max_length="40" name="number" type="string"/>
+        <element label="Area Manager" max_length="40" name="area_manager" type="string"/>
+        <element label="Ext. Company Name" max_length="40" name="ext_company_name" type="string"/>
+        <element label="Company Address" mandatory="true" max_length="40" name="company_address" type="string"/>
+        <element label="Email" mandatory="true" max_length="40" name="email" type="string"/>
+        <element choice="1" label="List of Sales PCDV Brands" max_length="40" name="list_of_sales_pcdv_brands" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="FIAT PROFESSIONAL" value="FIAT PROFESSIONAL"/>
+                <element inactive_on_update="false" label="PEUGEOT" value="PEUGEOT"/>
+                <element inactive_on_update="false" label="ABARTH" value="ABARTH"/>
+                <element inactive_on_update="false" label="JEEP" value="JEEP"/>
+                <element inactive_on_update="false" label="FIAT" value="FIAT"/>
+                <element inactive_on_update="false" label="CITROEN" value="CITROEN"/>
+                <element inactive_on_update="false" label="OPEL" value="OPEL"/>
+                <element inactive_on_update="false" label="LANCIA" value="LANCIA"/>
+                <element inactive_on_update="false" label="DS" value="DS"/>
+                <element inactive_on_update="false" label="ALFA ROMEO" value="ALFA ROMEO"/>
+            </choice>
+        </element>
+        <element label="VAT Number" max_length="40" name="vat_number" type="float"/>
+        <element label="Is EOI Document Attached" max_length="40" name="is_eoi_document_attached" type="boolean"/>
+        <element choice="1" label="List of Aftersales/Spare parts Brands (?)" max_length="40" name="list_of_aftersales_spare_parts_brands" type="choice">
+            <choice/>
+        </element>
+        <element label="Company City" max_length="40" name="company_city" type="string"/>
+        <element label="City" mandatory="true" max_length="40" name="city" type="string"/>
+    </element>
+</database>

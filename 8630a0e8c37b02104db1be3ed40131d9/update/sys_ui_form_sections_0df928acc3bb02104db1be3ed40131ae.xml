@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="0df928acc3bb02104db1be3ed40131ae" sys_domain="global" table="x_1459983_dealer_0_dealership_information" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-31 06:43:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d5f928acc3bb02104db1be3ed40131b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1459983_dealer_0_dealership_information" name="x_1459983_dealer_0_dealership_information" sys_domain="global" view="Default view">0df928acc3bb02104db1be3ed40131ae</sys_ui_form>
+            <sys_ui_section caption="AZIENDA(Company)" display_value="AZIENDA(Company)" name="x_1459983_dealer_0_dealership_information" sys_domain="global" view="Default view">0f06a4a4c3bb02104db1be3ed40131d8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-31 06:43:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-31 06:43:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d1f928acc3bb02104db1be3ed40131b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1459983_dealer_0_dealership_information" name="x_1459983_dealer_0_dealership_information" sys_domain="global" view="Default view">0df928acc3bb02104db1be3ed40131ae</sys_ui_form>
+            <sys_ui_section caption="PRINCIPAL BANK DATA" display_value="PRINCIPAL BANK DATA" name="x_1459983_dealer_0_dealership_information" sys_domain="global" view="Default view">01f928acc3bb02104db1be3ed40131ad</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-31 06:43:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-31 06:43:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ddf928acc3bb02104db1be3ed40131c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1459983_dealer_0_dealership_information" name="x_1459983_dealer_0_dealership_information" sys_domain="global" view="Default view">0df928acc3bb02104db1be3ed40131ae</sys_ui_form>
+            <sys_ui_section caption="SECONDARY BANK DATA" display_value="SECONDARY BANK DATA" name="x_1459983_dealer_0_dealership_information" sys_domain="global" view="Default view">41f928acc3bb02104db1be3ed40131ae</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-31 06:43:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1459983_dealer_0_dealership_information</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-31 06:43:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0df928acc3bb02104db1be3ed40131ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1459983_dealer_0_dealership_information</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Dealer Onboarding" source="x_1459983_dealer_0">8630a0e8c37b02104db1be3ed40131d9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Dealer Onboarding">8630a0e8c37b02104db1be3ed40131d9</sys_scope>
+            <sys_update_name>sys_ui_form_sections_0df928acc3bb02104db1be3ed40131ae</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-31 06:43:24</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_style">
+    <sys_ux_style action="DELETE">
+        <name>Custom theme</name>
+        <style>{&#13;
+    "base": {&#13;
+},&#13;
+    "properties":{&#13;
+        "--now-unified-nav_header--background-color":"255, 12, 93"&#13;
+    }&#13;
+}</style>
+        <sys_class_name>sys_ux_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-31 06:58:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>661d2c64c3fb02104db1be3ed401312d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Custom theme</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Dealer Onboarding" source="x_1459983_dealer_0">8630a0e8c37b02104db1be3ed40131d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dealer Onboarding">8630a0e8c37b02104db1be3ed40131d9</sys_scope>
+        <sys_update_name>sys_ux_style_661d2c64c3fb02104db1be3ed401312d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-31 13:04:04</sys_updated_on>
+        <type>core</type>
+    </sys_ux_style>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Dealer Onboarding">8630a0e8c37b02104db1be3ed40131d9</application>
+        <file_path/>
+        <instance_id>da99846a1b0dca18168f4089bd4bcb21</instance_id>
+        <instance_name>dev248746</instance_name>
+        <name>sys_ux_style_661d2c64c3fb02104db1be3ed401312d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_style"><sys_ux_style action="INSERT_OR_UPDATE"><name>Custom theme</name><style>{&#13;
+    "base": {&#13;
+},&#13;
+    "properties":{&#13;
+        "--now-unified-nav_header--background-color":"255, 12, 93"&#13;
+    }&#13;
+}</style><sys_class_name>sys_ux_style</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-31 06:58:16</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>661d2c64c3fb02104db1be3ed401312d</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Custom theme</sys_name><sys_overrides/><sys_package display_value="Dealer Onboarding" source="x_1459983_dealer_0">8630a0e8c37b02104db1be3ed40131d9</sys_package><sys_policy/><sys_scope display_value="Dealer Onboarding">8630a0e8c37b02104db1be3ed40131d9</sys_scope><sys_update_name>sys_ux_style_661d2c64c3fb02104db1be3ed401312d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-31 13:04:04</sys_updated_on><type>core</type></sys_ux_style></record_update>]]></payload>
+        <payload_hash>-586134002</payload_hash>
+        <record_name>Custom theme</record_name>
+        <reverted_from/>
+        <source>02737028c33f02104db1be3ed401311a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-31 13:04:04</sys_created_on>
+        <sys_id>8d118ee4c33b42104db1be3ed401314f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19108e3fb0f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-31 13:04:04</sys_updated_on>
+        <type>UX Style</type>
+        <update_guid>05118ee4c23b4210ca4e544fa335f14f</update_guid>
+        <update_guid_history>05118ee4c23b4210ca4e544fa335f14f:-586134002,a0317060883f02105e91b1b3ed37198c:-1033144816,7e5d60a4d4fb0210e421dd95ee326818:1181193942</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-01 06:31:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_style">sys_ux_style</sys_db_object>
+        <sys_id>35935564167247028ce9dd0f17818104</sys_id>
+        <sys_metadata>661d2c64c3fb02104db1be3ed401312d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Custom theme</sys_name>
+        <sys_package display_value="Dealer Onboarding" source="x_1459983_dealer_0">8630a0e8c37b02104db1be3ed40131d9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Dealer Onboarding">8630a0e8c37b02104db1be3ed40131d9</sys_scope>
+        <sys_scope_delete display_value="">6234ed4fc467411b9b1d8dba4e9f2119</sys_scope_delete>
+        <sys_update_name>sys_ux_style_661d2c64c3fb02104db1be3ed401312d</sys_update_name>
+        <sys_update_version display_value="sys_ux_style_661d2c64c3fb02104db1be3ed401312d">8d118ee4c33b42104db1be3ed401314f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-01 06:31:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

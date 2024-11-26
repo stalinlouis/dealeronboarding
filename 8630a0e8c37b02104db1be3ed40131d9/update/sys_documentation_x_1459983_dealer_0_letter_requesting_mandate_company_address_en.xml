@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="company_address" label="Company Address" language="en" table="x_1459983_dealer_0_letter_requesting_mandate">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>company_address</element>
+            <help/>
+            <hint/>
+            <label>Company Address</label>
+            <language>en</language>
+            <name>x_1459983_dealer_0_letter_requesting_mandate</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-31 06:19:04</sys_created_on>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>Company Address</sys_name>
+            <sys_package display_value="Dealer Onboarding" source="x_1459983_dealer_0">8630a0e8c37b02104db1be3ed40131d9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Dealer Onboarding">8630a0e8c37b02104db1be3ed40131d9</sys_scope>
+            <sys_update_name>sys_documentation_x_1459983_dealer_0_letter_requesting_mandate_company_address_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-08-02 10:30:37</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

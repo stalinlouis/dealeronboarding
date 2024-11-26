@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="use_document_viewer" db_object_id="02982c2cc3bb02104db1be3ed401311b" label="Business Plan" max_length="40" name="x_1459983_dealer_0_business_plan" type="collection">
+        <element label="Is Business Plan Attached" max_length="40" name="is_business_plan_attached" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Order No" mandatory="true" max_length="40" name="number" type="string"/>
+        <element label="Dealer Id" max_length="32" name="dealer_id" reference="x_1459983_dealer_0_letter_requesting_mandate" reference_qual="numberISNOTEMPTY" reference_qual_condition="numberISNOTEMPTY" type="reference"/>
+        <index name="index">
+            <element name="dealer_id"/>
+        </index>
+    </element>
+</database>

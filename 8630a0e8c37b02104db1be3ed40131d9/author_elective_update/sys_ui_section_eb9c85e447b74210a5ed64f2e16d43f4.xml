@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Dealer Details" section_id="eb9c85e447b74210a5ed64f2e16d43f4" sys_domain="global" table="x_1459983_dealer_0_dealer_template" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-31 09:53:15</sys_created_on>
+            <sys_id>4a65d1ec473b4210a5ed64f2e16d436e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dealer Details" display_value="Dealer Details" name="x_1459983_dealer_0_dealer_template" sys_domain="global" view="Default view">eb9c85e447b74210a5ed64f2e16d43f4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-31 09:53:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>template_name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-31 09:53:15</sys_created_on>
+            <sys_id>4a65d1ec473b4210a5ed64f2e16d43ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dealer Details" display_value="Dealer Details" name="x_1459983_dealer_0_dealer_template" sys_domain="global" view="Default view">eb9c85e447b74210a5ed64f2e16d43f4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-31 09:53:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-31 09:53:15</sys_created_on>
+            <sys_id>4265d1ec473b4210a5ed64f2e16d43ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dealer Details" display_value="Dealer Details" name="x_1459983_dealer_0_dealer_template" sys_domain="global" view="Default view">eb9c85e447b74210a5ed64f2e16d43f4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-31 09:53:15</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>task_type</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-31 09:53:15</sys_created_on>
+            <sys_id>4a65d1ec473b4210a5ed64f2e16d43ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Dealer Details" display_value="Dealer Details" name="x_1459983_dealer_0_dealer_template" sys_domain="global" view="Default view">eb9c85e447b74210a5ed64f2e16d43f4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-31 09:53:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Dealer Details</caption>
+            <header>false</header>
+            <name>x_1459983_dealer_0_dealer_template</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-31 09:14:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eb9c85e447b74210a5ed64f2e16d43f4</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>x_1459983_dealer_0_dealer_template</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Dealer Onboarding" source="x_1459983_dealer_0">8630a0e8c37b02104db1be3ed40131d9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Dealer Onboarding">8630a0e8c37b02104db1be3ed40131d9</sys_scope>
+            <sys_update_name>sys_ui_section_eb9c85e447b74210a5ed64f2e16d43f4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-31 10:19:54</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Dealer Onboarding">8630a0e8c37b02104db1be3ed40131d9</application>
+        <file_path/>
+        <instance_id>da99846a1b0dca18168f4089bd4bcb21</instance_id>
+        <instance_name>dev248746</instance_name>
+        <name>sys_ui_section_eb9c85e447b74210a5ed64f2e16d43f4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Dealer Details" section_id="eb9c85e447b74210a5ed64f2e16d43f4" sys_domain="global" table="x_1459983_dealer_0_dealer_template" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-31 09:53:15</sys_created_on><sys_id>4a65d1ec473b4210a5ed64f2e16d436e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Dealer Details" display_value="Dealer Details" name="x_1459983_dealer_0_dealer_template" sys_domain="global" view="Default view">eb9c85e447b74210a5ed64f2e16d43f4</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-31 09:53:15</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>template_name</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-31 09:53:15</sys_created_on><sys_id>4a65d1ec473b4210a5ed64f2e16d43ad</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Dealer Details" display_value="Dealer Details" name="x_1459983_dealer_0_dealer_template" sys_domain="global" view="Default view">eb9c85e447b74210a5ed64f2e16d43f4</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-31 09:53:15</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-31 09:53:15</sys_created_on><sys_id>4265d1ec473b4210a5ed64f2e16d43ae</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Dealer Details" display_value="Dealer Details" name="x_1459983_dealer_0_dealer_template" sys_domain="global" view="Default view">eb9c85e447b74210a5ed64f2e16d43f4</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-31 09:53:15</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>task_type</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-31 09:53:15</sys_created_on><sys_id>4a65d1ec473b4210a5ed64f2e16d43ae</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Dealer Details" display_value="Dealer Details" name="x_1459983_dealer_0_dealer_template" sys_domain="global" view="Default view">eb9c85e447b74210a5ed64f2e16d43f4</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-31 09:53:15</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Dealer Details</caption><header>false</header><name>x_1459983_dealer_0_dealer_template</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-31 09:14:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>eb9c85e447b74210a5ed64f2e16d43f4</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_1459983_dealer_0_dealer_template</sys_name><sys_overrides/><sys_package display_value="Dealer Onboarding" source="x_1459983_dealer_0">8630a0e8c37b02104db1be3ed40131d9</sys_package><sys_policy/><sys_scope display_value="Dealer Onboarding">8630a0e8c37b02104db1be3ed40131d9</sys_scope><sys_update_name>sys_ui_section_eb9c85e447b74210a5ed64f2e16d43f4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-31 10:19:54</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1030921829</payload_hash>
+        <record_name>Dealer Template</record_name>
+        <reverted_from/>
+        <source>02737028c33f02104db1be3ed401311a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-31 10:19:54</sys_created_on>
+        <sys_id>948b51a4c3b342104db1be3ed4013154</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191084dad960000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-31 10:19:54</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>5c8b51a47bb34210c12336aac0837153</update_guid>
+        <update_guid_history>5c8b51a47bb34210c12336aac0837153:1030921829,3d5ad120a7b342109593e43222f2474a:0,61e0d12c5533421050e1f63160edb572:-521523455</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-31 11:38:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>54bab724536946c498607e2c66e73384</sys_id>
+        <sys_metadata>eb9c85e447b74210a5ed64f2e16d43f4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dealer Details</sys_name>
+        <sys_package display_value="Dealer Onboarding" source="x_1459983_dealer_0">8630a0e8c37b02104db1be3ed40131d9</sys_package>
+        <sys_parent display_value="">4b9c452847b74210a5ed64f2e16d43fa</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Dealer Onboarding">8630a0e8c37b02104db1be3ed40131d9</sys_scope>
+        <sys_scope_delete display_value="">6234ed4fc467411b9b1d8dba4e9f2119</sys_scope_delete>
+        <sys_update_name>sys_ui_section_eb9c85e447b74210a5ed64f2e16d43f4</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_eb9c85e447b74210a5ed64f2e16d43f4">948b51a4c3b342104db1be3ed4013154</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-31 11:38:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
